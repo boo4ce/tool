@@ -1,1 +1,1 @@
-./setup_tool.bat
+./component/setup_tool.bat
